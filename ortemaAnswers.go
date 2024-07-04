@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-const TOKEN = "7139983209:AAEJOD-EZnFgl5abmWpujmbiqgO3k7pqQtg"
+const TOKEN = "7139983209:TEST"
 
 var bot *tgbotapi.BotAPI
 var chatID int64
